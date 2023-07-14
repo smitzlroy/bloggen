@@ -1,6 +1,6 @@
 # Aider - AI Powered Blog Generator
 
-Aider is a simple Flask web application that generates blog posts based on user-provided topics. It uses the Wikipedia API to fetch the summary of the topic and displays it as a blog post.
+Aider is a (VERY - for learning) simple Flask web application that generates blog posts based on user-provided topics. It uses the Wikipedia API to fetch the summary of the topic and displays it as a blog post.
 
 ## Installation
 
@@ -29,10 +29,6 @@ Aider is a simple Flask web application that generates blog posts based on user-
 3. Enter a topic in the input field and click on the "Generate" button.
 
 4. A blog post will be generated based on the topic and displayed on the result page.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## License
 
